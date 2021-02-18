@@ -1,0 +1,19 @@
+{
+  "name": "@gar/npm-registry-test",
+  "version": "1.0.0",
+  "description": "npm registry test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wraithgar/npm-registry-test.git"
+  },
+  "author": "Gar <gar+npm@danger.computer>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wraithgar/npm-registry-test/issues"
+  },
+  "homepage": "https://github.com/wraithgar/npm-registry-test#readme"
+}
