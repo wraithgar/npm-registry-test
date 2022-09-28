@@ -1,6 +1,6 @@
 {
   "name": "@gar/npm-registry-test",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "npm registry test package",
   "main": "index.js",
   "scripts": {
